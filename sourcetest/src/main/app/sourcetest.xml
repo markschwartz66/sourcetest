@@ -7,6 +7,6 @@
 http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/core/current/mule.xsd">
     <flow name="sourcetestFlow">
         <logger level="INFO" doc:name="Logger" message="test"/>
-        <logger message="adfadfadfaf" level="INFO" doc:name="Logger"/>
+        <logger message="bbbbbbbbbbb" level="INFO" doc:name="Logger"/>
     </flow>
 </mule>
