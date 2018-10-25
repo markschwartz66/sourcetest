@@ -10,5 +10,6 @@ http://www.mulesoft.org/schema/mule/core http://www.mulesoft.org/schema/mule/cor
         <logger message="test" level="INFO" doc:name="Logger"/>
         <logger message="bbbbbbbbbbb" level="INFO" doc:name="Logger"/>
         <logger message="afasdfafadsf" level="INFO" doc:name="Logger"/>
+        <logger message="Testing the other way" level="INFO" doc:name="Logger"/>
     </flow>
 </mule>
